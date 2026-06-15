@@ -9,7 +9,7 @@ A modern, responsive web-based notes application built with vanilla HTML, CSS, a
 
 ## 🚀 Demo
 
-**Live Demo**: 
+**Live Demo**: https://ganeshpadhy007-collab.github.io/notes-app/
 
 Or run locally: Just open `index.html` in your browser.
 
